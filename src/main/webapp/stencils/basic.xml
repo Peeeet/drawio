@@ -23,7 +23,7 @@
         <fillstroke/>
     </foreground>
 </shape>
-<shape aspect="variable" h="84.5" name="7 Point Star" strokewidth="inherit" w="96">
+<shape aspect="variable" h="84.5" name="6 Point Star" strokewidth="inherit" w="96">
     <connections>
         <constraint name="N1" perimeter="0" x="0.24" y="0"/>
         <constraint name="S1" perimeter="0" x="0.24" y="1"/>
